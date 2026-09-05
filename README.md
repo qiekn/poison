@@ -4,6 +4,8 @@
 
 Jai Vulkan Renderer source code
 
+![screenshot](./images/screenshot_1.jpg)
+
 ## docs brance
 
 > This brance will host a Chinese translation of [Vulkan Tutorial](https://vulkan-tutorial.com/) by **Alexander Overvoorde**. The original tutorial was structured using daux.io, I copied the `mdbook` format documentation from [SangGuKin/VulkanTutorial](https://github.com/SangGuKim/VulkanTutorial/) for easier maintenance and deploment.
