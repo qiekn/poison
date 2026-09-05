@@ -277,6 +277,6 @@ Congratulations, you've now finished your very first well-behaved Vulkan
 program! In the next chapter we're going to get rid of the hardcoded vertices in
 the vertex shader and actually use a vertex buffer.
 
-[C++ code](/code/17_swap_chain_recreation.cpp) /
-[Vertex shader](/code/09_shader_base.vert) /
-[Fragment shader](/code/09_shader_base.frag)
+[C++ code](code/17_swap_chain_recreation.cpp) /
+[Vertex shader](code/09_shader_base.vert) /
+[Fragment shader](code/09_shader_base.frag)

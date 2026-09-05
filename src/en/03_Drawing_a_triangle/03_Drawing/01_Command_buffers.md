@@ -341,6 +341,6 @@ In the next chapter we'll write the code for the main loop, which will acquire
 an image from the swap chain, record and execute a command buffer, then return the
 finished image to the swap chain.
 
-[C++ code](/code/14_command_buffers.cpp) /
-[Vertex shader](/code/09_shader_base.vert) /
-[Fragment shader](/code/09_shader_base.frag)
+[C++ code](code/14_command_buffers.cpp) /
+[Vertex shader](code/09_shader_base.vert) /
+[Fragment shader](code/09_shader_base.frag)

@@ -126,4 +126,4 @@ quite ready to be used as a render target just yet. That requires one more step
 of indirection, known as a framebuffer. But first we'll have to set up the
 graphics pipeline.
 
-[C++ code](/code/07_image_views.cpp)
+[C++ code](code/07_image_views.cpp)

@@ -173,6 +173,6 @@ In the next chapter we'll deal with one more small thing that is required for a
 well-behaved Vulkan program.
 
 
-[C++ code](/code/16_frames_in_flight.cpp) /
-[Vertex shader](/code/09_shader_base.vert) /
-[Fragment shader](/code/09_shader_base.frag)
+[C++ code](code/16_frames_in_flight.cpp) /
+[Vertex shader](code/09_shader_base.vert) /
+[Fragment shader](code/09_shader_base.frag)

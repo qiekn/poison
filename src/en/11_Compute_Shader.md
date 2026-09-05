@@ -646,7 +646,7 @@ In this chapter, we learned how to use compute shaders to offload work from the 
 
 You can find some advanced compute samples in the [official Khronos Vulkan Samples repository](https://github.com/KhronosGroup/Vulkan-Samples/tree/master/samples/api).
 
-[C++ code](/code/31_compute_shader.cpp) /
-[Vertex shader](/code/31_shader_compute.vert) /
-[Fragment shader](/code/31_shader_compute.frag) /
-[Compute shader](/code/31_shader_compute.comp)
+[C++ code](code/31_compute_shader.cpp) /
+[Vertex shader](code/31_shader_compute.vert) /
+[Fragment shader](code/31_shader_compute.frag) /
+[Compute shader](code/31_shader_compute.comp)
